@@ -24,6 +24,6 @@ Research Scientist at the Medical Image Analysis group, at SINTEF Health departm
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jpdefrutos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdefrutos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=jpdefrutos&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=jpdefrutos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 # 🌐 Social networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpdefrutos) 
